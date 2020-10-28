@@ -4,6 +4,8 @@ This is a website created with ReactJs by following the Brain Design on youtube.
 
 It shows how to create a Data.js to ensure more flexibility in the stylizing section.
 
+You can see the final project here: http://bit.ly/bitbankapp
+
 ## <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="javascript" width="35" height="35"/> Installing ( Web ) 
 
 If you got interested and want to try this project you need to:
