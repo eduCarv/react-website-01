@@ -43,7 +43,7 @@ I will try improve this project by:
 - Implement authentication
 - Create a 404 page
 - Create a button or routine to change from light theme to dark
-- Create a dashboard when logged
+- Create a home when logged
 
 ## :raised_hand: Contributing
 If you want to contribute you can open an issue any time
