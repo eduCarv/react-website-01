@@ -1,6 +1,6 @@
 
 # bit Bank
-This is a website created with ReactJs by following the Brain Design on youtube. It introduces the scroll link, that is when you click on a link and this is an anchor to a section on that page instead of go there like magic, it scrolls.
+This is a website created with ReactJs by following the Brian Design on youtube. It introduces the scroll link, that is when you click on a link and this is an anchor to a section on that page instead of go there like magic, it scrolls.
 
 It shows how to create a Data.js to ensure more flexibility in the stylizing section.
 
